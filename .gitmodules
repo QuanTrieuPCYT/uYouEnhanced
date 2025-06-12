@@ -25,9 +25,6 @@
 [submodule "Tweaks/RemoteLog"]
     path = Tweaks/RemoteLog
     url = https://github.com/Muirey03/RemoteLog
-[submodule "Tweaks/Return-YouTube-Dislikes"]
-    path = Tweaks/Return-YouTube-Dislikes
-    url = https://github.com/arichornloverALT/Return-YouTube-Dislikes.git
 [submodule "Tweaks/uYouLocalization"]
     path = Tweaks/uYouLocalization
     url = https://github.com/dayanch96/uYouLocalization.git
@@ -92,3 +89,6 @@
 [submodule "Tweaks/YouSlider"]
 	path = Tweaks/YouSlider
 	url = https://github.com/PoomSmart/YouSlider
+[submodule "Tweaks/Return-YouTube-Dislikes"]
+	path = Tweaks/Return-YouTube-Dislikes
+	url = https://github.com/PoomSmart/Return-YouTube-Dislikes
